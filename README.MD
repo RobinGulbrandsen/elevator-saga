@@ -4,7 +4,7 @@ Elevator Saga is a fun little JavaScript game where you are suppose to create th
 
 The game is well documented and easy to get into.
 
-http://play.elevatorsaga.com/
+http://play.elevatorsaga.com/#challenge=6
 
 # My Code
 
